@@ -1,6 +1,6 @@
-drop database rest1;
-create database rest1;
-use rest1;
+drop database restaurant;
+create database restaurant;
+use restaurant;
 
 drop table PAYMENT122;
 drop table DELIVERY_BOY;
